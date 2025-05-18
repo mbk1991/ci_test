@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mabb.tistory.mbk1991.Mbk1991ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-18T06:58:53.426Z" hostname="mabinui-MacBookPro.local" time="0.359">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.mabb.tistory.mbk1991.Mbk1991ApplicationTests" time="0.359"/>
+  <system-out><![CDATA[15:58:52.764 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.mabb.tistory.mbk1991.Mbk1991ApplicationTests]: Mbk1991ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:58:52.816 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.mabb.tistory.mbk1991.Mbk1991Application for test class com.mabb.tistory.mbk1991.Mbk1991ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.5)
+
+2025-05-18T15:58:52.990+09:00  INFO 44710 --- [mbk1991] [    Test worker] c.m.t.mbk1991.Mbk1991ApplicationTests    : Starting Mbk1991ApplicationTests using Java 17.0.10 with PID 44710 (started by mabin in /Users/mabin/coding/ci_test)
+2025-05-18T15:58:52.991+09:00  INFO 44710 --- [mbk1991] [    Test worker] c.m.t.mbk1991.Mbk1991ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-05-18T15:58:53.420+09:00  INFO 44710 --- [mbk1991] [    Test worker] c.m.t.mbk1991.Mbk1991ApplicationTests    : Started Mbk1991ApplicationTests in 0.543 seconds (process running for 1.033)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-18T06:58:52.691Z" hostname="mabinui-MacBookPro.local" time="0.01">
+  <properties/>
+  <testcase name="minus테스트()" classname="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" time="0.007"/>
+  <testcase name="mod테스트()" classname="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" time="0.0"/>
+  <testcase name="plus테스트()" classname="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" time="0.0"/>
+  <testcase name="devide테스트()" classname="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" time="0.001"/>
+  <testcase name="product테스트()" classname="com.mabb.tistory.mbk1991.calculator.CalculatorContollerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
