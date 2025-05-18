@@ -5,6 +5,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class Calculator {
 
+    private static final String TEST = "wrong constant";
+
     public int plus(int v1, int v2) {
         return v1 + v2;
     }
