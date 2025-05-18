@@ -33,6 +33,12 @@ pipeline {
                 ])
             }
         }
-
+    }
+    post {
+        always {
+            mail to: 'mbk1991@naver.com',
+            subject: "Complete Pipeline: ${currentBuild.fullDisplayName}",
+            body: "Build Completed, please check ${env.BUILD_URL}"
+        }
     }
 }
